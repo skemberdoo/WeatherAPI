@@ -1,0 +1,14 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "For Assignment in Traxion",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "author": "Mark Alexson Abrina",
+  "license": "ISC"
+}
